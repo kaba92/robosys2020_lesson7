@@ -1,2 +1,4 @@
 # robosys2020_lesson7
-This is a lesson7 repository
+ロボットシステム学の講義第7、8回で作成したデバイスドライバです。
+講義のコードにLEDが点滅するプログラムを加えました。
+
