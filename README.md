@@ -13,6 +13,7 @@ Makefile https://github.com/kaba92/robosys2020_lesson7/blob/main/Makefile
 ・Ubuntu 18.04
 
 
+
 使用した道具
 
 ・Raspberry　Pi4
@@ -41,5 +42,5 @@ echo 2 > /dev/myled0　 //LEDを点滅させる
 
 ライセンス　https://github.com/kaba92/robosys2020_lesson7/blob/main/LICENSE
 
-　　　　　　
+
 実行したときの動画　http://www.youtube.com/watch?v=_6X7jtEPQpU
